@@ -1,0 +1,2 @@
+# LeetCode_CodeInit
+在ide里调试leetcode代码时，可以将测试用例生成集合或链表代码
